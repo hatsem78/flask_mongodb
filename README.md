@@ -15,17 +15,17 @@ Versión.
 [Flask-SQLAlchemy-Documentación](http://flask-sqlalchemy.pocoo.org/2.3/)\
 
 
-<<<<<<< HEAD
+
 sudo apt-get install redis-server
 service redis-server start
-=======
+
 Instalar redis-server
 
 ```
 sudo apt-get install redis-server
 service redis-server start
 ```
->>>>>>> Arreglos generales, agregado cración usuarios, usuarios admin
+
 
 
 ## Getting Started
